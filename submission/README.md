@@ -34,7 +34,7 @@ The difference between single `src` and the whole project folder is that `src` o
 
 ### Update for Jan. 26
 
-I don't understand the submission requirement:
+Question: I don't understand the submission requirement:
 
 `This file should explain anything we need to know about how to build and run your project`.
 
