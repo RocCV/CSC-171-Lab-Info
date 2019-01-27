@@ -1,8 +1,8 @@
 # CSC-171-Lab-Info
 
-This is a detailed instruction on homework submission issues for CSC 171 Introduction to Computer Science (Spring 2019) at University of Rochetser.
+This is a detailed instruction on homework issues for CSC 171 Introduction to Computer Science (Spring 2019) at University of Rochetser.
 
-Please check the `submission` folder for details.
+Please check the `submission` folder for submission-related issues.
 
 # Copyrights 
 
